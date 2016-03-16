@@ -1,6 +1,6 @@
-calendar.js
+calendar.js - forked
 ============
-
+*difference in with original is that this modification works with year < 1970*
 Functions inspired by the calendar module from the Python standard library.
 
 The `monthDates` function builds an array of weeks to display one month,
